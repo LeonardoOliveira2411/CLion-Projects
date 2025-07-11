@@ -1,0 +1,3 @@
+C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/5G_CHAIN/cmake-build-debug/CMakeFiles/5G_CHAIN.dir
+C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/5G_CHAIN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/5G_CHAIN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

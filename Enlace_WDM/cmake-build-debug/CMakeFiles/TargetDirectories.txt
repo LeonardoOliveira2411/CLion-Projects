@@ -1,3 +1,0 @@
-C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/Enlace_WDM/cmake-build-debug/CMakeFiles/Enlace_WDM.dir
-C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/Enlace_WDM/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/Enlace_WDM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

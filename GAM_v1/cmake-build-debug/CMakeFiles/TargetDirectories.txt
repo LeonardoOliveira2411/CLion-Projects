@@ -1,3 +1,0 @@
-C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/GAM/cmake-build-debug/CMakeFiles/GAM.dir
-C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/GAM/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Leo Oliveira Martins/OneDrive - colway-08.com/MIS PROYECTOS/CLION/GAM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

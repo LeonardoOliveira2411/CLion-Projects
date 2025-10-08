@@ -1,4 +1,4 @@
-En esta carpeta se encuentra las diferentes versiones de mi proyecto de una cadena NB-IoT utilizando una modulación GAM (Golden Angle Modulation).
+En esta carpeta se encuentra las diferentes versiones de mi proyecto de una cadena NB-IoT, programada en C, utilizando una modulación GAM (Golden Angle Modulation).
 En este repositorio se encuentran las siguientes versiones:
 - v1: DATASOURCE + MODULACION GAM + CANAL AWGN SIMULADO + DEMODULACION GAM + DATASINK (CÁLCULO BER)
 - v2: v1 + DFT/IFT + OFDM

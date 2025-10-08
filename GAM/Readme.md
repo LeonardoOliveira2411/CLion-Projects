@@ -1,5 +1,5 @@
 En esta carpeta se encuentra las diferentes versiones de mi proyecto de una cadena NB-IoT utilizando una modulación GAM (Golden Angle Modulation).
-Las versiones estan formadas por los siguientes módulos:
+En este repositorio se encuentran las siguientes versiones:
 - v1: DATASOURCE + MODULACION GAM + CANAL AWGN SIMULADO + DEMODULACION GAM + DATASINK (CÁLCULO BER)
 - v2: v1 + DFT/IFT + OFDM
 - v3: Nueva implementación de toda la cadena. Dispone de los siguientes módulos:

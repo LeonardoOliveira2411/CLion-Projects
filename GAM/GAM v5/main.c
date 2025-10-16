@@ -32,13 +32,13 @@
 #define ANGLE_STEP 2.3997569
 #define C_POINTS 4
 
-// PARÁMETROS OFDM - CORREGIDOS
+// PARÁMETROS OFDM
 #define N_FFT 128 // N_FFT > TOTAL_SYMBOLS
 #define NUM_PILOTS 8  // Podemos usar más pilotos ahora
-#define SUBCARRIERS (TOTAL_SYMBOLS + NUM_PILOTS)  // ¡CORREGIDO! Incluye espacio para pilotos
+#define SUBCARRIERS (TOTAL_SYMBOLS + NUM_PILOTS)
 #define CP_LEN 10
 #define SUBCARRIERS_START (N_FFT/2 - SUBCARRIERS/2)
-#define PILOT_SPACING (SUBCARRIERS / NUM_PILOTS)  // Espaciado automático
+#define PILOT_SPACING (SUBCARRIERS / NUM_PILOTS)
 
 // PARÁMETROS CANAL
 #define SNR 4.5
@@ -859,7 +859,6 @@ int main(void)
 
         // 10. CALCULAMOS LA BER Y VALIDAMOS EL CRC
         float ber = calculate_ber(tx_tb.data_bits, rx_tb.data_bits);
-
         if (ber < 0.05) { rx_tb.crc_valid = true; }
 
         if (rx_tb.crc_valid)

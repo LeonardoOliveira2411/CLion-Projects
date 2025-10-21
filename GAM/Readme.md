@@ -10,3 +10,7 @@ En este repositorio se encuentran las siguientes versiones:
 - v4: v3 + PREÁMBULO + DETECCIÓN DE TRAMA
   
 - v5: v4 + PILOTOS OFDM + CORRECIÓN CFO
+  
+- v6: v5 + SINCRONIZACIÓN FINA (CFO RESIDUAL + CPE + SCO)
+
+- v7: v6 + IMPLEMENTACIÓN DE PRBs (Physical Resource Blocks)

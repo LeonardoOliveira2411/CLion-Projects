@@ -15,4 +15,4 @@ En este repositorio se encuentran las siguientes versiones:
 
 - v7: v6 + IMPLEMENTACIÓN DE PRBs (Physical Resource Blocks)
 
-- v8: v7 ORGANIZADO (CÓDIGO SEPARADO EN main.c + ARCHIVOS .h y .c SEGÚN EL MÓDULO QUE REPRESENTAN EN LA CADENA)
+- v8: v7 organizado (código separado en main.c + archivos .h y .c según el módulo que represetan en la cadena)
